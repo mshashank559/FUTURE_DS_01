@@ -1,4 +1,4 @@
-# 📊 Social Media Sentiment Analysis Dashboard
+# 📊 Social Media Trend Analysis Dashboard
 
 This project analyzes sentiment across multiple social media platforms (Reddit, Instagram, and Facebook) and visualizes the insights using Power BI.
 
